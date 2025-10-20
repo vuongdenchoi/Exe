@@ -1,0 +1,106 @@
+﻿ID,Tuoi,GioiTinh,NgheNghiep,ThuNhap,MucChiTra,QuanTamThienNhien,LoaiDauGoi,UT_GiaCa,UT_ThanhPhan,UT_MuiHuong,UT_CongDung,UT_BaoBi
+1,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội dùng hàng ngày,3,4,3,3,2
+2,21,Nam,bộ đội,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội làm sạch sâu,2,2,2,2,2
+3,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,None,Không,Dầu gội làm sạch sâu,3,2,3,4,2
+4,21,Nam,Học sinh / Sinh viên,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội làm sạch sâu,2,2,2,2,2
+5,21,Nữ,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu",2,2,1,4,2
+6,30,Nam,Nhân viên văn phòng,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu",4,4,4,4,4
+7,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội chuyên dụng, Dầu gội làm sạch sâu",2,3,3,3,2
+8,21,Nữ,Học sinh / Sinh viên,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội thảo dược,4,4,4,4,4
+9,21,Nữ,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Không,"Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",2,2,3,4,2
+10,21,Nữ,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",3,3,2,3,2
+11,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội chuyên dụng, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",2,2,2,2,2
+12,21,Nam,Nhân viên văn phòng,Từ 6 triệu đồng đến 10 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội dành cho tóc dầu",3,3,2,3,1
+13,21,Nữ,Nhân viên văn phòng,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dành cho tóc dầu",4,4,4,4,2
+14,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",3,4,4,4,2
+15,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",3,3,3,4,2
+16,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày",3,2,4,4,2
+17,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày",4,4,3,4,4
+18,40,Nữ,Nhân viên văn phòng,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,4,4,4,4,4
+19,21,Nữ,Học sinh / Sinh viên,Từ 6 triệu đồng đến 10 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội làm sạch sâu, Dầu gội tạo phồng tóc, Giảm rụng tóc",2,2,4,4,2
+20,40,Khác,Nội trợ,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội dành cho tóc dầu",2,3,3,4,2
+21,21,Nữ,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc",3,2,4,3,2
+22,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc",3,2,2,3,2
+23,40,Nam,Lao động tự do / freelancer,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,4,4,4,4,4
+24,21,Nam,Nhân viên văn phòng,Từ 6 triệu đồng đến 10 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội dùng hàng ngày",3,3,3,3,3
+25,21,Nam,Học sinh / Sinh viên,Trên 10 triệu đồng,trên 400.000 VND,Có,Dầu gội chuyên dụng,1,4,4,4,4
+26,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội chuyên dụng,2,2,3,4,1
+27,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội tạo phồng tóc",3,3,2,4,2
+28,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội dùng hàng ngày",4,4,4,4,4
+29,21,Nữ,Học sinh / Sinh viên,Từ 6 triệu đồng đến 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội dành cho tóc dầu,2,2,3,2,2
+30,21,Nữ,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội 2in1 (gội + xả),2,3,3,3,2
+31,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội chuyên dụng,4,3,4,3,1
+32,21,Nam,Học sinh / Sinh viên,Từ 6 triệu đồng đến 10 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu",3,3,4,3,2
+33,21,Nữ,Học sinh / Sinh viên,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội dùng hàng ngày,4,4,4,4,4
+34,21,Nữ,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dành cho tóc dầu",4,3,4,3,2
+35,21,Nam,Học sinh / Sinh viên,Từ 6 triệu đồng đến 10 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",4,4,4,4,4
+36,21,Nữ,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội làm sạch sâu, Dầu gội dành cho tóc dầu",3,3,4,4,2
+37,40,Nam,Lao động tự do / freelancer,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày",4,4,4,4,4
+38,40,Nam,Công chức,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dành cho tóc dầu",3,4,2,4,3
+39,50,Nữ,Lao động tự do / freelancer,Từ 6 triệu đồng đến 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,3,4,3,4,3
+40,21,Nữ,Lao động tự do / freelancer,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",2,2,2,2,2
+41,40,Nữ,Kinh doanh / buôn bán,Từ 6 triệu đồng đến 10 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc",2,3,3,4,2
+42,30,Nữ,Y tế,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,3,4,3,4,2
+43,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc",4,4,4,4,4
+44,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,Dưới 100000 VNĐ,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu",4,2,2,4,1
+45,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội thảo dược,3,3,2,3,2
+46,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội làm sạch sâu,3,2,2,3,2
+47,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",3,2,4,2,2
+48,21,Nam,Học sinh / Sinh viên,Từ 6 triệu đồng đến 10 triệu đồng,100.000 VND - 200.000 VND,Không,Dầu gội dùng hàng ngày,4,3,3,4,2
+49,21,Nữ,Nhân viên văn phòng,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội làm sạch sâu,4,1,2,4,2
+50,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội dùng hàng ngày, Dầu gội dành cho tóc dầu",3,3,3,3,2
+51,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu",2,2,3,2,2
+52,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội thảo dược,3,2,3,3,2
+53,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,2,4,3,3,2
+54,25,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",2,3,4,4,2
+55,50,Nữ,Công an,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,2,4,4,4,2
+56,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội dùng hàng ngày,3,3,2,4,1
+57,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",2,1,2,2,3
+58,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng",2,3,3,3,3
+59,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Không,Dầu gội chuyên dụng,3,3,3,3,3
+60,21,Nữ,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",2,3,3,3,2
+61,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng",3,4,4,4,3
+62,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội thảo dược,3,3,3,3,3
+63,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,50.000-150.000,Có,Clear,4,4,2,4,4
+64,21,Nam,Học sinh / Sinh viên,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Không,"Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",2,2,4,4,2
+65,40,Nữ,Kinh doanh / buôn bán,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội thảo dược,3,2,2,4,3
+66,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Không,"Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày",2,2,2,2,2
+67,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội dùng hàng ngày",4,2,3,3,2
+68,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày",4,2,2,2,1
+69,21,Nam,Lao động tự do / freelancer,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc",2,4,4,4,2
+70,50,Nữ,Nhân viên văn phòng,Trên 10 triệu đồng,trên 400.000 VND,Có,"Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội dành cho tóc dầu",3,2,3,3,2
+71,21,Nữ,Lao động tự do / freelancer,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội dùng hàng ngày,3,2,4,2,2
+72,30,Nữ,Nhân viên văn phòng,Từ 6 triệu đồng đến 10 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc",3,3,3,2,2
+73,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,2,2,2,2,2
+74,50,Nữ,Nhân viên văn phòng,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội dùng hàng ngày",3,3,4,4,1
+75,50,Nam,Nhân viên văn phòng,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,2,3,4,4,4
+76,40,Nữ,Nhân viên văn phòng,Từ 6 triệu đồng đến 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội thảo dược,2,3,4,4,2
+77,40,Nam,Công nhân / lao động phổ thông,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,clear,3,3,3,3,3
+78,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 - 150.000 VND/1 chai khoảng 350 ml,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, ",3,4,2,4,2
+79,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày",4,3,3,3,2
+80,50,Nữ,Nội trợ,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội dùng hàng ngày,3,3,3,3,3
+81,50,Nữ,Nhân viên văn phòng,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội tạo phồng tóc,1,4,4,4,3
+82,50,Nữ,Nhân viên văn phòng,Từ 6 triệu đồng đến 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội thảo dược,2,4,2,4,2
+83,40,Nữ,Nhân viên văn phòng,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội thảo dược,3,4,2,3,2
+84,50,Nam,Nhân viên văn phòng,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Có,Dầu gội thảo dược,2,2,2,2,2
+85,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội dùng hàng ngày, Dầu gội dành cho tóc dầu",3,3,3,3,4
+86,40,Nam,Nhân viên văn phòng,Trên 10 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội dành cho tóc dầu,2,3,2,4,2
+87,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội tạo phồng tóc",2,2,3,4,2
+88,21,Nam,Học sinh / Sinh viên,Trên 10 triệu đồng,200.000 VND - 400.000 VND,Không,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội dùng hàng ngày",2,2,3,3,2
+89,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc",4,4,4,4,2
+90,40,Nữ,Nội trợ,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày",4,4,3,3,2
+91,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Không,Dầu gội làm sạch sâu,3,3,3,2,2
+92,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội dành cho tóc dầu,4,4,4,4,4
+93,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",3,2,2,4,1
+94,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,dầu gội trị nấm da đầu,2,2,1,2,2
+95,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội làm sạch sâu,2,4,4,4,3
+96,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Không,"Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội dành cho tóc dầu",2,2,3,4,2
+97,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng",4,4,4,4,3
+98,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Không,Dầu gội tạo phồng tóc,2,2,2,3,2
+99,50,Nữ,Nội trợ,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng, Dầu gội làm sạch sâu, Dầu gội dùng hàng ngày, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",4,4,4,4,2
+100,21,Nữ,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng",3,4,4,4,3
+101,21,Nữ,Lao động tự do / freelancer,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội chuyên dụng, Dầu gội làm sạch sâu",2,3,3,3,3
+102,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,100.000 VND - 200.000 VND,Có,Dầu gội dùng hàng ngày,3,2,3,3,2
+103,30,Nữ,Nội trợ,Từ 3 triệu đồng đến dưới 6 triệu đồng,100.000 VND - 200.000 VND,Có,"Dầu gội thảo dược, Dầu gội dùng hàng ngày",3,3,2,4,3
+104,21,Nam,Học sinh / Sinh viên,Dưới 3 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội chuyên dụng, Dầu gội tạo phồng tóc, Dầu gội dành cho tóc dầu",2,3,3,3,2
+105,21,Nam,Học sinh / Sinh viên,Từ 3 triệu đồng đến dưới 6 triệu đồng,200.000 VND - 400.000 VND,Có,"Dầu gội thảo dược, Dầu gội chuyên dụng",4,4,2,4,2
